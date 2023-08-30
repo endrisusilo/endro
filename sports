@@ -337,7 +337,7 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/MNCSPORT1_tegak.png/revision/latest?cb=20200909231435" group-title="OSPORT",MNC SPORT 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/MNCSPORT1_tegak.png/revision/latest?cb=20200909231435" group-title="SPORT",MNC SPORT 1
 http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157589.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/MNC_SPORT_2.png/revision/latest/scale-to-width-down/300?cb=20200909232621" group-title="SPORT",MNC SPORT 2
