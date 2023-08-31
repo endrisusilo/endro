@@ -391,57 +391,102 @@ http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157558.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/811.png/revision/latest?cb=20200929173213" group-title="SPORT",ASSP5
 http://kuchini.site:8080/live/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/287792.ts
 
-#EXTINF:-1  tvg-logo="" group-title="SPORT",MAL|SupSport
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport.png" group-title="SPORT",MAL|SupSport
 http://kuchini.site:8080/dooby1312/b244f7ab/146068
-#EXTINF:-1  tvg-logo="" group-title="SPORT",MAL|SupSport 2
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport2.png" group-title="SPORT",MAL|SupSport 2
 http://kuchini.site:8080/dooby1312/b244f7ab/157556
-#EXTINF:-1  tvg-logo="" group-title="SPORT",MAL|SupSport 3
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT",MAL|SupSport 3
 http://kuchini.site:8080/dooby1312/b244f7ab/157557
-#EXTINF:-1  tvg-logo="" group-title="SPORT",MAL|SupSport IV
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT",MAL|SupSport 4
 http://kuchini.site:8080/dooby1312/b244f7ab/157558
-#EXTINF:-1  tvg-logo="" group-title="SPORT",MAL|SupSport 5
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT",MAL|SupSport 5
 http://kuchini.site:8080/dooby1312/b244f7ab/287792
 
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",AstroK•1
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport.png" group-title="SPORT",AstroK•1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918986&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",AstroK•2
+
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport2.png" group-title="SPORT",AstroK•2
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918985&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",AstroK•3
+
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT",AstroK•3
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918984&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",AstroK•4
+
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT",AstroK•4
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918983&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",AstroK•5
+
+#EXTINF:-1  tvg-logo="https://asiagrandiptv.us/logo//astrosupersport3.png" group-title="SPORT",AstroK•5
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=918982&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",Hpremier.1
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/inaldie/LOGO-CHANEL/main/HUB%20Premier.png" group-title="SPORT",Hpremier.1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032529&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",Hpremier.2
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%202.png?raw=true" group-title="SPORT",Hpremier.2
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032528&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",H premier.3
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%203.jpg?raw=true" group-title="SPORT",H premier.3
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032527&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",b premier.4
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%204.png?raw=true" group-title="SPORT",b premier.4
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032526&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",b premier.5
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%205.jpg?raw=true" group-title="SPORT",b premier.5
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032525&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",Hpremier.6
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%206.jpg?raw=true" group-title="SPORT",Hpremier.6
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032524&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",Hub premier.7
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/HUB%20Premier%207.jpg?raw=true" group-title="SPORT",Hub premier.7
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032523&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSport.hk4k.1
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%204k%201.png?raw=true" group-title="SPORT",NowSport.hk4k.1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032489&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",Nowpremier.1
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%201.png?raw=true" group-title="SPORT",Nowpremier.1
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032487&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSPORT.2
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%202.png?raw=true" group-title="SPORT",NowSPORT.2
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032478&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSport.3
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%203.jpg?raw=true" group-title="SPORT",NowSport.3
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032477&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSport.4
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%204.jpg?raw=true" group-title="SPORT",NowSport.4
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032476&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSport.5
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%205.jpg?raw=true" group-title="SPORT",NowSport.5
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032475&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSport.6
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%206.jpg?raw=true" group-title="SPORT",NowSport.6
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032474&extension=ts&play_token=tuyullxt@.ts
-#EXTINF:-1  tvg-logo="Cenel2free" group-title="SPORT",NowSport.7
+
+#EXTINF:-1  tvg-logo="https://github.com/endrisusilo/endro/blob/main/now%20sport%207.jpg?raw=true" group-title="SPORT",NowSport.7
 http://tuyullxt@mag.x-iptv.live/play/live.php?mac=00:1A:79:23:25:61&stream=1032473&extension=ts&play_token=tuyullxt@.ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/SporTV_2021.png?raw=true",SPORTV 1
+http://assista.pro:80/0333686557/Vilamariante1/125386
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/sportv2%20(1).png?raw=true",SPORTV 2
+http://assista.pro:80/0333686557/Vilamariante1/125392
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/Sportv4-.png?raw=true",SPORTV 4
+http://assista.pro:80/0333686557/Vilamariante1/125402
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/espn.png?raw=true",ESPN 1
+http://assista.pro:80/0333686557/Vilamariante1/134014
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/espn%202.png?raw=true",ESPN 2 
+http://assista.pro:80/0333686557/Vilamariante1/134019
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/ESPN3_Logo.png?raw=true",ESPN 3
+http://assista.pro:80/0333686557/Vilamariante1/134025
+ 
+#EXTINF:-1 group-title="SPORT" tvg-logo="https://github.com/endrisusilo/endro/blob/main/ESPN_4_logo.svg.png?raw=true",ESPN 4
+http://assista.pro:80/0333686557/Vilamariante1/134033
 
 
 
